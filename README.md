@@ -30,8 +30,8 @@ Spring Boot와 Java 17을 기반으로 구축되었습니다. 사용자 인증, 
 1.  **애플리케이션 클론:**
 
     ```bash
-    git clone https://github.com/your-username/vote-backend.git
-    cd vote-backend
+    git clone git@github.com:tusedaysIncheon/SpringBootSecurityStarter.git
+    cd SpringBootSecurityStarter
     ```
 
 2.  **데이터베이스 및 Redis 실행 (Docker 사용 시):**
