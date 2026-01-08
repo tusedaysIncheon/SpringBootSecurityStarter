@@ -1,6 +1,6 @@
 # Springboot Security Starter
 
-이 프로젝트는 투표 애플리케이션의 백엔드 서버로, Spring Boot와 Java 17을 기반으로 구축되었습니다. 사용자 인증, 소셜 로그인, JWT 기반의 API 보안 등 다양한 기능을 제공합니다.
+Spring Boot와 Java 17을 기반으로 구축되었습니다. 사용자 인증, 소셜 로그인, JWT 기반의 API 보안 등 다양한 기능을 제공합니다.
 
 ## 🚀 주요 기술 스택
 
